@@ -2,7 +2,7 @@
 
 ## FINES
 <details>
-  <summary>Create Fines</summary><blockquote>
+  <summary>**Create Fines**</summary><blockquote>
   <details>
     <summary>Header</summary>
     <li>Authorization</li>
