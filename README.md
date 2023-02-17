@@ -3,11 +3,7 @@
 ## FINES
 <details>
 <summary>Create Fines</summary>  
-  - <details>
-   <summary>Header</summary>
-   -**Authorization**: Bearer {token_librarian_access}
-  </details>
-  
+  - hola
   <details>
     <summary>Body</summary>
   </details>
