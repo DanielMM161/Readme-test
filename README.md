@@ -13,8 +13,7 @@
           <blockquote>
             <li><b>Authorization</b>: Bearer {token_librarian_access}</li>
           </blockquote>
-        </details>
-               
+        </details>               
       </blockquote>
     </details>
   </blockquote>
