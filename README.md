@@ -25,7 +25,6 @@
 	"amount": 50
 }
 ```
-
           </blockquote>
         </details>                
       </blockquote>
