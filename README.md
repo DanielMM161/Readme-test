@@ -2,7 +2,8 @@
 
 <details> 
   <summary><h1>Fines</h1></summary>
-  <details>
+  <blockquote>
+    <details>
   
     <summary><h2>Create Fines</h2></summary>
 
@@ -15,7 +16,9 @@
         </details>
      </blockquote>
   
-  </details>
+    </details>
+  </blockquote>
+  
 </details>
 
 
