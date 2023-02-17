@@ -5,7 +5,7 @@
   <summary>Create Fines</summary><blockquote>
   <details>
     <summary>Header</summary>
-    - Authorization
+    <li>Authorization</li>
     <blockquote></blockquote>
   </details>
 
