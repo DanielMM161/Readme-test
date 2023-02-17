@@ -11,7 +11,22 @@
           <blockquote>
             <li><b>Authorization</b>: Bearer {token_librarian_access}</li>
           </blockquote>
-        </details>  
+        </details>
+        
+        <details>
+          <summary>Body</summary>
+          <blockquote>
+            ```json
+              {
+                "userId": 123,
+                "bookId": 12,
+                "fineType": "broke",
+                "amount": 50
+              }
+            ```
+          </blockquote>
+        </details>
+        
       </blockquote>
     </details>
   </blockquote>
