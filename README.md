@@ -2,7 +2,7 @@
 <details>
 	<summary>Fines<a name="Fines"></a></summary>
 	<li>[Create Fines](#Patch Fines)</li>
-	<li><a name="delete-fines">Delete Fines</a></li> 
+	<li><a href="https://github.com/DanielMM161/Readme-test/blob/main/README.md#delete-fines">Delete Fines</a></li> 
 </details>
 
 # Fines
