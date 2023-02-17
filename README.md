@@ -1,7 +1,6 @@
 # Readme-test
 
-## API Reference
-Take me to [Create Fines](#createFine)
+# FINES
 #### <a name="createFine"></a> Create Fine
 
 ```http
