@@ -8,7 +8,7 @@
 
 # Fines
 
-# Create Fine
+## Create Fine
 
 **[POST]** You can create a new fines sending a object like the following /fines/
 
