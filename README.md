@@ -6,9 +6,11 @@
   <blockquote>
     <details>
     <summary>Header</summary>
-    <li>Authorization</li>
-      <blockquote></blockquote>
-   </details>  
-  </blockquote>
+      <blockquote>
+        <li>Authorization</li>
+         <blockquote></blockquote>
+      </blockquote>
+
+   </details>    
 </details>
 
