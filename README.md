@@ -2,7 +2,10 @@
 
 ## FINES
 <details>
-<summary>Create Fines</summary>  
+<summary>Create Fines
+    <details>
+     <summary>Response</summary>
+  </details></summary>  
   <details>
       - hola
     <summary>Body</summary>
