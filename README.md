@@ -1,7 +1,8 @@
 # Resume
 <details>
-	<summary>Fines<a name="Fines"></a></summary>
-	<li>[Create Fines](#Patch Fines)</li>
+	<summary><h2>Fines<a name="https://github.com/DanielMM161/Readme-test/blob/main/README.md#Fines"></a></h2></summary>
+	<li><a href="https://github.com/DanielMM161/Readme-test/blob/main/README.md#create-fines">Create Fines</a></li>
+	<li><a href="https://github.com/DanielMM161/Readme-test/blob/main/README.md#patch-fines">Patch Fines</a></li>
 	<li><a href="https://github.com/DanielMM161/Readme-test/blob/main/README.md#delete-fines">Delete Fines</a></li> 
 </details>
 
