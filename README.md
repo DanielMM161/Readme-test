@@ -1,9 +1,13 @@
 # Readme-test
 
 ## FINES
-<details>
-    <summary> Create Fines </summary>
-<!-- empty line -->
-    - Collapsible content (Markdown-stylable)
-</details>
+<details open>
+   <summary>Create Fines</summary><blockquote>
+  <details><summary>World - click me to open</summary><blockquote>
+    :smile:
+  </blockquote></details>
+  <details open><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
 
