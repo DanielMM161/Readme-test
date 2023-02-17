@@ -2,10 +2,8 @@
 
 ## FINES
 <details>
-  <ol>
-    <li>
-      <summary><b>Create Fines</b></summary><blockquote>
-    </li>
+  <ol>    
+    <summary><b>Create Fines</b></summary><blockquote>
     <li></li>
     <li></li>
     <li></li>
