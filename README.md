@@ -1,3 +1,7 @@
+# Resume
+ - Create Fines [Create Fines](#Patch Fines)
+ - Delete Fines [Delete Fines](#deleteFine)
+
 # Fines
 
 # Create Fine
