@@ -17,14 +17,14 @@
         <details>
           <summary>Body</summary>
           <blockquote>
-```javascript
-{
-	"userId": 123,
-	"bookId": 12,
-	"fineType": "broke",
-	"amount": 50
-}
-```
+	```javascript
+	{
+		"userId": 123,
+		"bookId": 12,
+		"fineType": "broke",
+		"amount": 50
+	}
+	```
           </blockquote>
         </details>                
       </blockquote>
