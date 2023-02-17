@@ -2,7 +2,7 @@
 <details>
 	<summary>Fines<a name="Fines"></a></summary>
 	<li>[Create Fines](#Patch Fines)</li>
-	<li>Delete Fines<a name="delete-fines"></a></li> 
+	<li><a name="delete-fines">Delete Fines</a></li> 
 </details>
 
 # Fines
