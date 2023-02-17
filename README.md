@@ -4,6 +4,6 @@
 <details>
     <summary> Create Fines </summary>
 <!-- empty line -->
-    Collapsible content (Markdown-stylable)
+    - Collapsible content (Markdown-stylable)
 </details>
 
