@@ -1,5 +1,9 @@
 # Readme-test
 
+# Resume
+ - Create Fines [Create Fines](#createFine)
+ - Delete Fines [Delete Fines](#deleteFine)
+
 # FINES
 #### <a name="createFine"></a> Create Fine
 
@@ -27,4 +31,7 @@
     "amount": 50
    }
 ```
+
+#### <a name="deleteFine"></a> Delete Fine
+
 
