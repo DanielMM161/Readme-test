@@ -1,6 +1,10 @@
 # Resume
- - Create Fines [Create Fines](#Patch Fines)
+<details>
+	<summary>Fines</summary>
+	 - Create Fines [Create Fines](#Patch Fines)
  - Delete Fines [Delete Fines](#delete-fines)
+<details>
+
 
 # Fines
 
