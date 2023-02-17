@@ -14,10 +14,10 @@
 
 ```json
 {
-	"userId": 123,
-	"bookId": 12,
-	"fineType": "broke",
-	"amount": 50
+  "userId": 123,
+  "bookId": 12,
+  "fineType": "broke",
+  "amount": 50
 }
 ```
 
@@ -25,11 +25,11 @@
 
 ```json
 {
-	"id": 1,
-	"userId": 123,
-	"bookId": 12,
-	"fineType" "broken",
-	"amount": 50
+"id": 1,
+"userId": 123,
+"bookId": 12,
+"fineType" "broken",
+"amount": 50
 }
 ```
 
