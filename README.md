@@ -1,162 +1,91 @@
-# Readme-test
+# Fines
 
-# Resume
- - Create Fines [Create Fines](#createFine)
- - Delete Fines [Delete Fines](#deleteFine)
+# Create Fine
 
-# FINES
-#### <a name="createFine"></a> Create Fine
+**[POST]** You can create a new fines sending a object like the following /fines/
 
-```http
-  POST /api/v1/fines/
-```
+**[URL]** https://api.libary.management/api/v1/fines/
 
--  Body
-```json
-  {
-    "userId": 123,
-    "bookId": 12,
-    "fineType": "broke",
-    "amount": 50
-   }
-```
+### Header
+
+- Authorization: “Bearer {token_librarian_access}”
+
+### Body
 
 ```json
-  Response
-  {
-    "id": 1,
-    "userId": 123,
-    "bookId": 12,
-    "fineType" "broken",
-    "amount": 50
-   }
+{
+	"userId": 123,
+	"bookId": 12,
+	"fineType": "broke",
+	"amount": 50
+}
 ```
 
-#### <a name="deleteFine"></a> Delete Fine
-
-```http
-  POST /api/v1/fines/
-```
-
--  Body
-```json
-  {
-    "userId": 123,
-    "bookId": 12,
-    "fineType": "broke",
-    "amount": 50
-   }
-```
+### Response
 
 ```json
-  Response
-  {
-    "id": 1,
-    "userId": 123,
-    "bookId": 12,
-    "fineType" "broken",
-    "amount": 50
-   }
+{
+	"id": 1,
+	"userId": 123,
+	"bookId": 12,
+	"fineType" "broken",
+	"amount": 50
+}
 ```
 
-```http
-  POST /api/v1/fines/
-```
+# Patch Fines
 
--  Body
-```json
-  {
-    "userId": 123,
-    "bookId": 12,
-    "fineType": "broke",
-    "amount": 50
-   }
-```
+**[PATCH]** The fines endpoint allows changing state of one fine
 
-```json
-  Response
-  {
-    "id": 1,
-    "userId": 123,
-    "bookId": 12,
-    "fineType" "broken",
-    "amount": 50
-   }
-```
+**[URL]** https://api.libary.management/api/v1/fines/{id}
 
-```http
-  POST /api/v1/fines/
-```
+### Parameter
 
--  Body
-```json
-  {
-    "userId": 123,
-    "bookId": 12,
-    "fineType": "broke",
-    "amount": 50
-   }
-```
+- **ID (Required):** Unique identifier for a fines
+
+### Header
+
+- Authorization: “Bearer {token_librarian_access}”
+
+### Body
 
 ```json
-  Response
-  {
-    "id": 1,
-    "userId": 123,
-    "bookId": 12,
-    "fineType" "broken",
-    "amount": 50
-   }
+{
+	"fineType": "burnt",
+	"amount": 100,
+}
 ```
 
-```http
-  POST /api/v1/fines/
-```
-
--  Body
-```json
-  {
-    "userId": 123,
-    "bookId": 12,
-    "fineType": "broke",
-    "amount": 50
-   }
-```
+### Response
 
 ```json
-  Response
-  {
-    "id": 1,
-    "userId": 123,
-    "bookId": 12,
-    "fineType" "broken",
-    "amount": 50
-   }
+{
+	"id": 1,
+	"userId": 123,
+	"bookId": 12,
+	"fineType" "burnt",
+	"amount": 100
+}
 ```
 
-```http
-  POST /api/v1/fines/
-```
+# Delete Fines
 
--  Body
+**[DELETE]** The fines endpoint allows to delete fines
+
+**[URL]** https://api.libary.management/api/v1/fines/{id}
+
+### Header
+
+- **Authorization**: “Bearer {token_librarian_access}”
+
+### Parameter
+
+- **IDs (Required):** Unique identifier for a fines
+
+### Response
+
 ```json
-  {
-    "userId": 123,
-    "bookId": 12,
-    "fineType": "broke",
-    "amount": 50
-   }
+{
+	"status_process": true
+}
 ```
-
-```json
-  Response
-  {
-    "id": 1,
-    "userId": 123,
-    "bookId": 12,
-    "fineType" "broken",
-    "amount": 50
-   }
-```
-
-
