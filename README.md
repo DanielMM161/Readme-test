@@ -1,8 +1,8 @@
 # Resume
 <details>
-	<summary>[Fines](#Fines)</summary>
+	<summary>Fines<a name="Fines"></a></summary>
 	<li>[Create Fines](#Patch Fines)</li>
-	<li>[Delete Fines](#delete-fines)</li> 
+	<li>Delete Fines<a name="delete-fines"></a></li> 
 </details>
 
 # Fines
