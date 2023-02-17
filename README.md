@@ -16,15 +16,13 @@
         </details>
         <details>
           <summary>Body</summary>
-          <blockquote>
-		```javascript
+          <blockquote>		
 		{
 			"userId": 123,
 			"bookId": 12,
 			"fineType": "broke",
 			"amount": 50
 		}
-		```
           </blockquote>
         </details>                
       </blockquote>
