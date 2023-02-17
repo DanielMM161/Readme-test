@@ -3,9 +3,9 @@
 ## FINES
 <details>
 <summary>Create Fines</summary>  
-  <details>
-    <summary>Header</summary>
-      -**Authorization**: Bearer {token_librarian_access}
+  - <details>
+   <summary>Header</summary>
+   -**Authorization**: Bearer {token_librarian_access}
   </details>
   
   <details>
