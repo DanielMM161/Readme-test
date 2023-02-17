@@ -1,7 +1,7 @@
 # Readme-test
 
 ## FINES
-<details open>
+<details>
   <summary>Create Fines</summary><blockquote>
   <details>
     <summary>Header</summary>
