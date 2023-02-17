@@ -6,6 +6,6 @@
   <details>
     <summary>Header</summary>
     <li>Authorization</li>
-    <blockquote></blockquote>
+      <blockquote></blockquote>
   </details>
 
