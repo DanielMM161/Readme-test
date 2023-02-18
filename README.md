@@ -2,6 +2,7 @@
 
 # Fines
 
+<li>
 # Get All Fines
 
 **[GET]** The F******ines****** endpoint return **Fines** listed, allowing queries bases on **********Fines********** purpose
@@ -45,6 +46,7 @@
 	}
 ]
 ```
+</li>
 
 # Get One Fine
 
